@@ -2,6 +2,8 @@
 
 > input search function
 
+[演示页面](https://fredfeng0326.github.io/inputsearch/)
+
 ## Build Setup
 
 ``` bash
@@ -13,6 +15,6 @@ npm run dev
 
 ``` 
 
-ddddd
+
 
 
